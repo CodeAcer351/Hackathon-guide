@@ -1,0 +1,13 @@
+/* src/index.css */
+body {
+    font-family: 'Inter', sans-serif;
+    margin: 0;
+    background-color: #f5f5f5;
+  }
+  
+  /* Tailwind-like utility classes */
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 1rem;
+  }
